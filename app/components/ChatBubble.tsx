@@ -28,7 +28,7 @@ const ChatBubble = ({ text, hasTail }: ChatBubbleProps) => {
 
   return (
     <div className={chatBubbleClasses}>
-      <div className="chat-bubble bg-base-100 text-black ">{text}</div>
+      <div className="chat-bubble bg-white text-black ">{text}</div>
     </div>
   );
 };

@@ -9,7 +9,7 @@ type ChatBubbleProps = {
 
 const ChatBubble = ({ text, hasTail }: ChatBubbleProps) => {
   const [isVisible, setIsVisible] = useState(true);
-
+  
   useEffect(() => {
     // Apply the fade-in animation when the component mounts
     setIsVisible(true);

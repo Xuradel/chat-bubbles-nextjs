@@ -1,6 +1,6 @@
 ## Chat bubble app 
 
-This app was inspired by @devaslife, he is a Full-Stack developer and creates amazing youtube videos.
+This app was inspired by @devaslife, he is a Full-Stack developer and creates amazing youtube videos, app is not perfect, has some bugs, will work on it on the future more.
 
 ## Link to vercel page
 
